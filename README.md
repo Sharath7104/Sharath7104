@@ -1,5 +1,5 @@
 # 💫 Hey there, I'm Sharath S
-<br><br>🌱 I’m currently learning about Java and Data structures and Algorithms.<br>👯 I’m looking to collaborate on Open source project<br>🤔 I’m looking for help with anything I am currently working on.<br>💬 Ask me about anything which makes you happy...<br>⚡ Fun fact: Coding will soon be as necessary as reading.
+<br><br>🌱 I’m currently learning about Java and Data structures and Algorithms.<br>👯 I’m looking to collaborate on Open source project<br>🤔 I’m looking for help with anything I am currently working on.<br>💬 Ask me about anything which makes you happy...<br>⚡ Fun fact: Coding will soon be as necessary as reading.<br> 💻 Know more about me <a href="https://sharath7104.github.io/">Portfolio</a>
 
 
 ## 🌐 Socials:
